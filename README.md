@@ -273,4 +273,4 @@ Next start the server from the projects main directory using python3 manage.py r
 
 
 ## Result:
-Hence, a website has been developed to display details about the colleges around saveetha university.
+Hence, a website has been developed to display details around my house.
